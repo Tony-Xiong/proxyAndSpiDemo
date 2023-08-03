@@ -1,0 +1,2 @@
+org.example.spi.RedisUserServiceImpl
+org.example.spi.MysqlUserServiceImpl
